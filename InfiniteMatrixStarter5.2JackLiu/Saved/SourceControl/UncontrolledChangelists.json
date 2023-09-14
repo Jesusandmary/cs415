@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/healthbar-full.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/healthbar_empty.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/healthpack.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Ml_HealthPack.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Ml_Bullet.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Ml_enemy.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/XxX.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Texts.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/healthpack1.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Health.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/lambert2SG_001.uasset",
+				"C:/Users/13919/Desktop/cs415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Material.uasset"
+			]
+		}
+	]
+}
